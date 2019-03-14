@@ -1,9 +1,10 @@
 # toptrends
 
-# Access Google Trends via this Android app with a couple of more feature.
 
-# You can categorize your trends by news type and country in the main page.
+Access Google Trends via this Android app with a couple of more feature.
 
-# This app only provides Turkish and English options.
+You can categorize your trends by news type and country in the main page.
 
-# Google services might be shut down so please inform me if it does.
+This app only provides Turkish and English options.
+
+Google services might be shut down so please inform me if it does.
