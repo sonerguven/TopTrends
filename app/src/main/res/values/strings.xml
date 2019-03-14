@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Top Trends</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2465017155295658/1076076521</string>
+
+    <string name="AllCategories">All Categories</string>
+    <string name="Business">Business</string>
+    <string name="Entertainment">Entertainment</string>
+    <string name="Health">Health</string>
+    <string name="SciTech">Sci/Tech</string>
+    <string name="Sports">Sports</string>
+    <string name="TopStories">Top Stories</string>
+
+    <string name="SelectCountry">Change Country</string>
+    <string name="RelatedNews">Related News</string>
+    <string name="NoNews">There are no trends related to this topic for now. Please try again later.</string>
+
+</resources>

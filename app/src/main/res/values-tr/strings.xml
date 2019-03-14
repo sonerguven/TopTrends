@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Top Trends</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2465017155295658/1076076521</string>
+
+    <string name="AllCategories">Bütün Kategoriler</string>
+    <string name="Business">İş</string>
+    <string name="Entertainment">Eğlence</string>
+    <string name="Health">Sağlık</string>
+    <string name="SciTech">Bilim Teknik</string>
+    <string name="Sports">Spor</string>
+    <string name="TopStories">Popüler</string>
+
+    <string name="SelectCountry">Ülke Değiştir</string>
+    <string name="RelatedNews">İlgili Haberler</string>
+    <string name="NoNews">Şu an için bu başlık ile ilgili bir trend bulunmamaktadır. Lütfen daha sonra tekrar deneyiniz.</string>
+</resources>
